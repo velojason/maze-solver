@@ -1,7 +1,6 @@
 # maze-solver
 
-Coding Challenge
-----------------
+## Coding Challenge
 
 Given a maze made of ASCII characters fed through standard input (console), find the path that is the shortest distance
 from Origin to Destination. This must be done without going through any barriers. The movements you are permitted to do
